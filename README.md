@@ -34,3 +34,5 @@ pytesseract.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tessera
 ```
 
 5. Change the hotkey if needed (ctrl+w by default)
+
+6. The regex used to extract xp is set to work with french text. If your game is not in french, just change the word "niveau" which means level in french.
